@@ -1,6 +1,6 @@
 # Company Policy Q&A Bot
 
-A Streamlit-based Question & Answer application that allows users to upload company policy PDFs and ask questions using semantic search and a local LLM powered by Ollama.
+A Streamlit-based Question & Answer application that allows users to upload company policy PDFs and ask questions using semantic search and a local LLM using by Ollama.
 
 **Features**
 
